@@ -1,4 +1,4 @@
-# Hi! I'm Parminder
+# Hi! I'm Parminder Singh
 
 🎓 BCA student exploring the world of software development<br>💻 Currently sharpening my skills in Java, DSA, JavaScript & Backend Development<br>🧩 Passionate about problem solving and turning ideas into working solutions<br>🚀 Building projects, solving problems, and learning something new every day<br>☕ Powered by curiosity, code, and way too much debugging
 
